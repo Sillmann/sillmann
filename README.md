@@ -1,6 +1,5 @@
 ### Olá !! Sou o Silvio Sillmann 👋
 
-- 🔭 Atualmente atuo como programador delphi / unigui
 - 🌱 Estudando react - blockchain - solidity
 - 👯 Compartilhando aqui no github, os projetos que estudo
 - 📫 Entre em contato comigo: ssilman@gmail.com
