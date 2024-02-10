@@ -1,4 +1,4 @@
-### Olá !! Sou o Silvio Sillmann 👋
+### Olá !! Uma honra compartilhar os meus estudos com vc ! 👋
 
 - 🌱 Estudando react - blockchain - solidity
 - 👯 Compartilhando aqui no github, os projetos que estudo
