@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá !! Sou o Silvio Sillmann 👋
+
+- 🔭 Atualmente atuo como programador delphi / unigui
+- 🌱 Estudando react - blockchain - solidity
+- 👯 Compartilhando aqui no github, os projetos que estudo
+- 📫 Entre em contato comigo: ssilman@gmail.com
 
 <!--
 **Sillmann/sillmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
