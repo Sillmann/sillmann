@@ -4,6 +4,12 @@
 - 👯 Compartilhando aqui no github, os projetos que estudo
 - 📫 Entre em contato comigo: ssilman@gmail.com
 
+Índice dos projetos:
+Curso Rocketseat React Native:
+- I´m Here - App de lista de participantes de um evento;
+https://github.com/Sillmann/imhere-reactnative-rocketseat
+
+
 <!--
 **Sillmann/sillmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
