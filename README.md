@@ -7,7 +7,12 @@
 Índice dos projetos:
 Curso Rocketseat React Native:
 - I´m Here - App de lista de participantes de um evento;
+  
 https://github.com/Sillmann/imhere-reactnative-rocketseat
+
+- To Do List - App para controlar tarefas a fazer e concluidas
+
+https://github.com/Sillmann/todo-reactnative-rocketseat
 
 
 <!--
