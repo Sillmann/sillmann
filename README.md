@@ -5,6 +5,14 @@
 - 📫 Entre em contato comigo: ssilman@gmail.com
 
 Índice dos projetos:
+
+Curso Web23 - Smart Contract - Luiz Tools:
+
+- Contrato de Par ou Impar - Utilizado para o jogo de par ou impar entre o usuario e o computador
+https://github.com/Sillmann/parouimpar-blockchain-luiztoolsweb23
+
+
+
 Curso Rocketseat React Native:
 - I´m Here - App de lista de participantes de um evento;
   
