@@ -26,6 +26,9 @@ https://github.com/Sillmann/teams-reactnative-rocketseat
 - Daily Diet - App para registras as suas refeições e traz estatísticas
 https://github.com/Sillmann/dailydiet-reactnative-rocketseat
 
+- Gym - App de Acompanhamento de Exercícios na Academia
+https://github.com/Sillmann/gym-reactnative-rocketseat
+
 
 <!--
 **Sillmann/sillmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
