@@ -11,7 +11,7 @@ Curso Web23 - Smart Contract - Luiz Tools:
 - Contrato JoKenPo - Jogar Papel Pedra ou Tesoura entre duas carteiras na rede goerli
 https://github.com/Sillmann/jokenpo-blockchain-luiztoolsweb23
 
-- Contrato de Par ou Impar - Jogar Ppar ou Impar entre o usuario e o computador
+- Contrato de Par ou Impar - Jogar Par ou Impar entre o usuario e o computador
 https://github.com/Sillmann/parouimpar-blockchain-luiztoolsweb23
 
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
