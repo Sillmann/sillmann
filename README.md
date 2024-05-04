@@ -6,8 +6,11 @@
 
 Índice dos projetos:
 
-Curso Web23 - Smart Contract - Luiz Tools:
+Curso Web23 - Dapp / Smart Contract - Luiz Tools:
 
+- Dapp CryptoTwitter - Simulação do twitter implementado na blockchain
+https://github.com/Sillmann/cryptytwitter-blockchain-luiztoolsweb23
+ 
 - Contrato JoKenPo - Jogar Papel Pedra ou Tesoura entre duas carteiras na rede goerli
 https://github.com/Sillmann/jokenpo-blockchain-luiztoolsweb23
 
