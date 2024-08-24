@@ -1,7 +1,9 @@
 ### Olá !! Uma honra compartilhar os meus estudos com vc ! 👋
 
 - 🌱 Estudando react - blockchain - solidity
+- 
 - 👯 Compartilhando aqui no github, os projetos que estudo
+- 
 - 📫 Entre em contato comigo: ssilman@gmail.com
 
 Índice dos projetos:
