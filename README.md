@@ -1,15 +1,15 @@
 ### Olá !! Uma honra compartilhar os meus estudos com vc ! 👋
 
 - 🌱 Estudando react - blockchain - solidity
-- 
+ 
 - 👯 Compartilhando aqui no github, os projetos que estudo
-- 
+  
 - 📫 Entre em contato comigo: ssilman@gmail.com
 
 Últimos projetos:
 
 - Dapp BetCandidate - Votação-Aposta-Premiação utilizando a blockchain Polygon Amoy Network
-
+https://github.com/Sillmann/betcandidate-blockchain-luiztoolsweek5
 
 Índice dos projetos:
 
