@@ -11,6 +11,9 @@
 - Dapp BetCandidate - Votação-Aposta-Premiação utilizando a blockchain Polygon Amoy Network
 https://github.com/Sillmann/betcandidate-blockchain-luiztoolsweek5
 
+- Curso: Blockchain aplicada a resolução de problemas na Administração Pública
+https://github.com/Sillmann/certificados/blob/main/README.md
+
 Índice dos projetos:
 
 Curso Web23 - Dapp / Smart Contract - Luiz Tools:
@@ -43,8 +46,7 @@ https://github.com/Sillmann/dailydiet-reactnative-rocketseat
 https://github.com/Sillmann/gym-reactnative-rocketseat
 
 
-- Certificado Blockchain aplicada a resolução de problemas na Administração Pública
-https://github.com/Sillmann/certificados/blob/main/README.md
+
 
 
 <!--
