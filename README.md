@@ -8,10 +8,10 @@
 
 Últimos projetos:
 
-- Dapp BetCandidate - Votação-Aposta-Premiação utilizando a blockchain Polygon Amoy Network
+- Dapp BetCandidate - Votação-Aposta-Premiação utilizando a blockchain Polygon Amoy Network (Out/2024)
 https://github.com/Sillmann/betcandidate-blockchain-luiztoolsweek5
 
-- Curso: Blockchain aplicada a resolução de problemas na Administração Pública
+- Curso: Blockchain aplicada a resolução de problemas na Administração Pública (Ago/2024)
 https://github.com/Sillmann/certificados/blob/main/README.md
 
 Índice dos projetos:
