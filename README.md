@@ -6,6 +6,11 @@
 - 
 - 📫 Entre em contato comigo: ssilman@gmail.com
 
+Últimos projetos:
+
+- Dapp BetCandidate - Votação-Aposta-Premiação utilizando a blockchain Polygon Amoy Network
+
+
 Índice dos projetos:
 
 Curso Web23 - Dapp / Smart Contract - Luiz Tools:
