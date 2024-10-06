@@ -9,7 +9,7 @@
 Últimas atualizações, cursos e projetos:
 
 - Criação de Token ERC 20 (Out/2024)
-https://github.com/Sillmann/token-erc20-hardhat (Out/2024)
+  https://github.com/Sillmann/token-erc20-hardhat
   
 - Dapp BetCandidate - Votação-Aposta-Premiação utilizando a blockchain Polygon Amoy Network (Out/2024)
 https://github.com/Sillmann/betcandidate-blockchain-luiztoolsweek5
