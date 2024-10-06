@@ -6,14 +6,14 @@
   
 - 📫 Entre em contato comigo: ssilman@gmail.com
 
-Últimos projetos:
+Últimas atualizações, cursos e projetos:
 
 - Criação de Token ERC 20: https://github.com/Sillmann/token-erc20-hardhat (Out/2024)
   
 - Dapp BetCandidate - Votação-Aposta-Premiação utilizando a blockchain Polygon Amoy Network (Out/2024)
 https://github.com/Sillmann/betcandidate-blockchain-luiztoolsweek5
 
-- Curso: Blockchain aplicada a resolução de problemas na Administração Pública (Ago/2024)
+- Curso: Blockchain aplicada a resolução de problemas na Administração Pública (Set/2024)
 https://github.com/Sillmann/certificados/blob/main/README.md
 
 Índice dos projetos:
