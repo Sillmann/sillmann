@@ -1,6 +1,6 @@
 ### Olá !! Uma honra compartilhar os meus estudos com vc ! 👋
 
-- 🌱 Estudando react - blockchain - solidity
+- 🌱 Estudando Web3: blockchain - solidity - react - react native
  
 - 👯 Compartilhando aqui no github, os projetos que estudo
   
@@ -8,6 +8,7 @@
 
 Últimas atualizações, cursos e projetos:
 
+- Estrutura padrão de NFT - ERC721 (Out/2024) https://github.com/Sillmann/nft-padrao-erc721/blob/main/monaliseNFT.sol
 - Criação de Token ERC 20 (Out/2024)
   https://github.com/Sillmann/token-erc20-hardhat
   
