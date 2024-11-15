@@ -49,6 +49,7 @@ https://github.com/Sillmann/dailydiet-reactnative-rocketseat
 - Gym - App de Acompanhamento de Exercícios na Academia
 https://github.com/Sillmann/gym-reactnative-rocketseat
 
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
 Certificados:
 
