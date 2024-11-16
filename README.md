@@ -8,6 +8,9 @@
 
 Últimas atualizações, cursos e projetos:
 
+- RWA - Tokenização de Imovel
+  https://github.com/Sillmann/vale-imovel
+
 - Estrutura padrão de NFT - ERC721 (Out/2024) https://github.com/Sillmann/nft-padrao-erc721/blob/main/monaliseNFT.sol
 - Criação de Token ERC 20 (Out/2024)
   https://github.com/Sillmann/token-erc20-hardhat
