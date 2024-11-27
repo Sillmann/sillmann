@@ -8,6 +8,8 @@
 
 Últimas atualizações, cursos e projetos:
 
+- Curso: Desenvolvimento de Ativos Reais (RWA)
+-  
 - RWA - Tokenização de Imovel
   https://github.com/Sillmann/vale-imovel
 
