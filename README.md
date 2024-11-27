@@ -8,12 +8,13 @@
 
 Últimas atualizações, cursos e projetos:
 
-- Curso: Desenvolvimento de Ativos Reais (RWA)
--  
+- Curso: Desenvolvimento de Ativos Reais (RWA) https://github.com/Sillmann/certificados/blob/main/README.md
+ 
 - RWA - Tokenização de Imovel
   https://github.com/Sillmann/vale-imovel
 
 - Estrutura padrão de NFT - ERC721 (Out/2024) https://github.com/Sillmann/nft-padrao-erc721/blob/main/monaliseNFT.sol
+  
 - Criação de Token ERC 20 (Out/2024)
   https://github.com/Sillmann/token-erc20-hardhat
   
