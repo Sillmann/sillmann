@@ -9,7 +9,7 @@
 Últimas atualizações, cursos e projetos:
 
 - Curso: Desenvolvimento em DREX ( Nearx ) https://github.com/Sillmann/certificados/blob/main/README.md
-- 
+ 
 - Curso: Desenvolvimento de Ativos Reais (RWA) https://github.com/Sillmann/certificados/blob/main/README.md
  
 - RWA - Tokenização de Imovel
